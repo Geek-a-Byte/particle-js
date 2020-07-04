@@ -9,6 +9,7 @@ body {
 
 #particles-js {
   background-image: url(./assets/earth.jpg);
-  background-size: contain;
+  background-size: cover;
+  background-position: top;
   height: 1000px;
 }
